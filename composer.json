@@ -1,0 +1,17 @@
+{
+    "name": "tonygor/yii2-web-extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "authors": [
+        {
+            "name": "tonygor",
+            "email": "2423574112@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "my\\webext\\": "src"
+        }
+    }
+}
