@@ -8,7 +8,12 @@
             "email": "2423574112@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "lcobucci/jwt" : ""
+    },
+    "require-dev": {
+        "yiisoft/yii2-queue" : ""
+    },
     "autoload": {
         "psr-4": {
             "my\\webext\\": "src"
