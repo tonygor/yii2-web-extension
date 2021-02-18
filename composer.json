@@ -9,10 +9,10 @@
         }
     ],
     "require": {
-        "lcobucci/jwt" : ""
+        "lcobucci/jwt" : "*"
     },
     "require-dev": {
-        "yiisoft/yii2-queue" : ""
+        "yiisoft/yii2-queue" : "*"
     },
     "autoload": {
         "psr-4": {
