@@ -18,5 +18,10 @@
         "psr-4": {
             "my\\webext\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests"
+        }
     }
 }
