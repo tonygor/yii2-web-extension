@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":240:{a:2:{s:7:"defects";a:3:{s:25:"StackTest::testPushAndPop";i:5;s:16:"AaaTest::testSay";i:5;s:19:"MyAppTest::testMain";i:3;}s:5:"times";a:3:{s:25:"StackTest::testPushAndPop";d:0;s:16:"AaaTest::testSay";d:0;s:19:"MyAppTest::testMain";d:0.001;}}}
